@@ -1,4 +1,4 @@
 # GApps
 Open GApps Package by Fonville IT
 ## Screenshot
-./sreen1.png ./sreen2.png
+![screen](./sreen1.png) ![screen pa](./sreen2.png)
