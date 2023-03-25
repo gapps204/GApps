@@ -1,5 +1,5 @@
 # GApps
 Open GApps Package by Fonville IT
 # Download
-[Pgyer](https://www.pgyer.com/rootgapps)
+[Pgyer ROOT](https://www.pgyer.com/rootgapps)
 
